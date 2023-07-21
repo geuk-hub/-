@@ -8,6 +8,6 @@
 
 사용 모델 : Yolov8
 
-Private 62th 상위 7.25%
+Private 62th(상위 7.25%)
 
 Public score : 0.91352, Private score : 0.90113
